@@ -48,4 +48,8 @@ Apply has park kind arch marry.
 
 Apply has park kind arch land.
 
+Apply has park mark.
+
+Apply has park cross.
+
 Apply has major.
