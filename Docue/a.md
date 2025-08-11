@@ -53,3 +53,9 @@ Apply has park mark.
 Apply has park cross.
 
 Apply has major.
+
+Any that apply to Park most high is goal Park.
+
+Any that apply to Mark most high is goal Mark.
+
+Any that apply to Dark most high is goal Dark.
